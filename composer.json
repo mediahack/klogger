@@ -5,5 +5,5 @@
     },
     "autoload": {
         "psr-0": { "Katzgrau\\KLogger": "" }
-    },
+    }
 }
