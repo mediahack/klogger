@@ -17,7 +17,7 @@
  * @version 0.2.0
  */
 
-namespace mediahack;
+namespace Katzgrau;
 
 /**
  * Class documentation
