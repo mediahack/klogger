@@ -1,5 +1,6 @@
 {
     "name": "mediahack/klogger",
+    "description": "A Simple Logging Class",
     "require": {
         "php": ">=5.3.0"
     },
