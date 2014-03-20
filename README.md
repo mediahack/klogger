@@ -2,6 +2,11 @@
 
 A project written by Kenny Katzgrau. This fork is for Composer package development.
 
+## NOTICE. THERE IS A OFFICIAL RELEASE NOW.
+Kenny has created an offical project. If you're just starting out I recommend you head over and use his version. This fork exists to be maintained for anyone who may have already been using this and doesn't want to convert.
+
+[Official 1.0 Release](http://github.com/katzgrau/KLogger)
+
 ## About
 
 KLogger is an easy-to-use logging class for PHP. It supports standard log levels

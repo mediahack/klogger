@@ -1,9 +1,9 @@
 {
-    "name": "katzgrau/klogger",
+    "name": "mediahack/klogger",
     "require": {
         "php": ">=5.3.0"
     },
     "autoload": {
-        "psr-0": { "Katzgrau\\KLogger": "" }
+        "psr-0": { "mediahack\\KLogger": "" }
     }
 }
